@@ -1,0 +1,7 @@
+.idea
+.gradle
+build/
+out/
+*.bak
+*/src/main/generated/
+*/src/test/generated_tests/
